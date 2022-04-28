@@ -1,3 +1,3 @@
 # Birthday
 
-Open this url:- https://github.com/RahulJava-1/Birthday.git
+Open this url:- https://rahuljava-1.github.io/Birthday/
