@@ -7,7 +7,7 @@ body {
 	-ms-transition:background-color linear 5s;
 	transition:background-color linear 5s;
 	overflow-x:hidden;
-	background-image: url('image2.jpg');
+	//background-image: url('.....jpg');
 	background-attachment: fixed;
 	background-repeat: repeat;
 }
